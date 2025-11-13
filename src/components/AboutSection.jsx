@@ -16,9 +16,11 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              With over 5 years of experience in web development, I specialize
-              in creating responsive, accessible, and performant web
-              applications using modern technologies.
+ I’m a Computer Science student with skills in C++, Data Structures, and basic
+   web development. I enjoy building simple and responsive projects using HTML,
+  CSS, JavaScript, and Tailwind CSS. I’m focused on improving my problem-solving
+  abilities and learning new technologies through hands-on projects and
+  continuous practice.
             </p>
 
             <p className="text-muted-foreground">
@@ -64,10 +66,12 @@ export const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">UI/UX Design</h4>
+                  <h4 className="font-semibold text-lg">Problem Solving</h4>
+
                   <p className="text-muted-foreground">
-                    Designing intuitive user interfaces and seamless user
-                    experiences.
+                      I practice problem-solving using C++ and Data Structures to strengthen my
+  logical thinking. I focus on improving step by step through regular coding
+  and learning new techniques.
                   </p>
                 </div>
               </div>
@@ -78,13 +82,14 @@ export const AboutSection = () => {
                   <Briefcase className="h-6 w-6 text-primary" />
                 </div>
 
-                <div className="text-left">
-                  <h4 className="font-semibold text-lg">Project Management</h4>
-                  <p className="text-muted-foreground">
-                    Leading projects from conception to completion with agile
-                    methodologies.
-                  </p>
-                </div>
+             <div className="text-left">
+  <h4 className="font-semibold text-lg">MySQL Basics</h4>
+  <p className="text-muted-foreground">
+    Basic understanding of relational databases, writing queries, and managing
+    simple data operations.
+  </p>
+</div>
+
               </div>
             </div>
           </div>
@@ -93,3 +98,5 @@ export const AboutSection = () => {
     </section>
   );
 };
+
+
