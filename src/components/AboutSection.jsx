@@ -16,11 +16,7 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
- I’m a Computer Science student with skills in C++, Data Structures, and basic
-   web development. I enjoy building simple and responsive projects using HTML,
-  CSS, JavaScript, and Tailwind CSS. I’m focused on improving my problem-solving
-  abilities and learning new technologies through hands-on projects and
-  continuous practice.
+I am a Computer Science engineering student with a strong interest in full-stack development. I   have hands-on experience working with front-end and back-end technologies through academic and  personal projects. I am focused on building real-world applications and preparing for a career in the software industry.
             </p>
 
             <p className="text-muted-foreground">
@@ -37,10 +33,11 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href=""
+                href="/projects/Nikhil_Resume.pdf"
+                download
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
-                Download CV
+                Download Resume
               </a>
             </div>
           </div>
@@ -52,10 +49,9 @@ export const AboutSection = () => {
                   <Code className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg"> Web Development</h4>
+                  <h4 className="font-semibold text-lg"> Data Structures & Problem Solving</h4>
                   <p className="text-muted-foreground">
-                    Creating responsive websites and web applications with
-                    modern frameworks.
+Practicing problem-solving and core Data Structures to strengthen logical thinking and improve coding efficiency.
                   </p>
                 </div>
               </div>
@@ -66,12 +62,10 @@ export const AboutSection = () => {
                   <User className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Problem Solving</h4>
+                  <h4 className="font-semibold text-lg">Full-Stack Development</h4>
 
                   <p className="text-muted-foreground">
-                      I practice problem-solving using C++ and Data Structures to strengthen my
-  logical thinking. I focus on improving step by step through regular coding
-  and learning new techniques.
+Building responsive, scalable web applications using React, Tailwind CSS, Node.js, Express, and MongoDB with complete front-end and back-end integration.
                   </p>
                 </div>
               </div>
@@ -83,10 +77,9 @@ export const AboutSection = () => {
                 </div>
 
              <div className="text-left">
-  <h4 className="font-semibold text-lg">MySQL Basics</h4>
+  <h4 className="font-semibold text-lg">Real-World Projects</h4>
   <p className="text-muted-foreground">
-    Basic understanding of relational databases, writing queries, and managing
-    simple data operations.
+Developed a full-stack Car Rental Web App with secure authentication, image upload, and booking system using modern web technologies.
   </p>
 </div>
 
