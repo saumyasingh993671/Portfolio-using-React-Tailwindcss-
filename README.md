@@ -1,8 +1,8 @@
-# Nikhil Pandey — Portfolio Website
+# Saumya Singh — Portfolio Website
 
-A modern, responsive personal portfolio website built to showcase my skills, projects, and technical journey as a Computer Science engineering student.
+A modern, responsive personal portfolio website built to showcase my skills, projects, and technical journey as a **Computer Science Engineering student and MERN Stack Developer**.
 
-This portfolio highlights my work in full-stack development, problem-solving using C++ and Data Structures, and web technologies like React and Tailwind CSS.
+This portfolio highlights my work in **full-stack web development**, along with hands-on experience in **React, Tailwind CSS, Node.js, and MongoDB**, and my interest in **AI and data-driven applications**.
 
 ---
 
@@ -12,38 +12,36 @@ This portfolio highlights my work in full-stack development, problem-solving usi
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Tools:** Git, GitHub, VS Code
-- **Deployment:** Vercel
+- **Deployment:** Render
 
 ---
 
 ## ✨ Features
 
-- 🌙 Dark-themed modern UI
-- 📱 Fully responsive design (mobile, tablet, desktop)
-- 🧠 Skills and technology showcase
-- 📂 Project portfolio section
-- 📄 Resume download option
-- 📬 Contact form with notification feedback
+- 🌙 Modern UI with dark/light mode support  
+- 📱 Fully responsive design (mobile, tablet, desktop)  
+- 🧠 Skills and technology showcase  
+- 📂 Project portfolio section  
+- 📄 Resume download option  
+- 🔗 Direct links to GitHub and LinkedIn  
 
 ---
 
 ## 🎯 Purpose
 
-This website represents my journey as a Computer Science engineering student preparing for a career in software development.  
-It demonstrates my growth in problem-solving, web development, and building real-world applications.
+This website represents my journey as a **Computer Science Engineering student** preparing for a career in **full-stack (MERN) and software development**.  
+It reflects my learning, problem-solving skills, and ability to build **real-world, scalable web applications**.
 
 ---
 
 ## 🔗 Live Demo
 
-https://react-tailwind-portfolio-website.vercel.app/
+👉 *(Add your Render deployment link here after deployment)*
 
 ---
 
 ## 👤 Author
 
-**Nikhil Pandey**
+**Saumya Singh**
 
-> This project was originally inspired by an open-source template and has been customized and extended according to my learning goals and personal requirements.
-
-
+> This project is built and customized as part of my learning journey, inspired by modern portfolio design practices and tailored to reflect my skills, projects, and career goals.
